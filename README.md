@@ -16,3 +16,8 @@
 	
  •	The company has repeatedly issued legal action warnings through an automated system,
 but no specific explanation or human response has been provided.
+
+Conclusion:
+
+“The company has not provided adequate responses to user requests and has only utilized systematic responses, with insufficient explanations or follow-up.”
+
